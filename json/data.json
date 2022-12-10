@@ -1,0 +1,161 @@
+{
+   "mainTitle":"O nama",
+   "quickLinks":[
+      {
+         "title":"Adriatic.hr",
+         "tag":"adriatic"
+      },
+      {
+         "title":"Misija i vizija",
+         "tag":"missionVission"
+      },
+      {
+         "title":"Na\u0161e Vrijednosti",
+         "tag":"ourValues"
+      },
+      {
+         "title":"Otkrijte Vi\u0161e",
+         "tag":"discoverMore"
+      }
+   ],
+   "about":{
+      "seactionTitle":"O nama",
+      "text":"Adriatic.hr vode\u0107a je turisti\u010dka agencija koja od 2000. godine pru\u017ea usluge online rezervacije smje\u0161taja na Jadranu. Na\u0161 visokomotivirani i stru\u010dni tim pru\u017ea podr\u0161ku gostima na svakom koraku njihova putovanja te poma\u017ee odabrati idealni smje\u0161taj iz ponude od preko 14000 smje\u0161tajnih jedinica. Tako iz godine u godinu opravdavamo svoj moto: Najkra\u0107i put do Jadrana",
+      "tag":"adriatic"
+   },
+   "mission":{
+      "sectionTitle":"Misija i vizija",
+      "textMission":"<b>Misija<\/b> je Adriatic.hr-a omogu\u0107iti gostima da u na\u0161oj bogatoj i detaljno prezentiranoj ponudi privatnog smje\u0161taja jednostavno i brzo prona\u0111u i rezerviraju smje\u0161taj na Jadranu. Na\u0161e stru\u010dno osoblje dodatno \u0107e se pobrinuti da va\u0161 san o ugodnom i bezbri\u017enom odmoru postane stvarnost.",
+      "textVision":"<b>Vizija<\/b> je Adriatic.hr-a biti prvi izbor gostima koji tra\u017ee najkra\u0107i put do privatnog smje\u0161taja u Hrvatskoj.",
+      "tag":"missionVission"
+   },
+   "values":{
+      "sectionTitle":"Na\u0161e Vrijednosti",
+      "items":[
+         {
+            "title":"Pouzdanost i pravednost",
+            "image":"content\/ourValues1.svg",
+            "alt":"Pouzdanost i pravednost"
+         },
+         {
+            "title":"Izvrstnost",
+            "image":"content\/ourValues2.svg",
+            "alt":"Izvrstnost"
+         },
+         {
+            "title":"Rast i razvoj",
+            "image":"content\/ourValues3.svg",
+            "alt":"Rast i razvoj"
+         },
+         {
+            "title":"Efikastnost",
+            "image":"content\/ourValues4.svg",
+            "alt":"Efikastnost"
+         },
+         {
+            "title":"Otvorenost za promjene",
+            "image":"content\/ourValues5.svg",
+            "alt":"Otvorenost za promjene"
+         },
+         {
+            "title":"Timski duh",
+            "image":"content\/ourValues6.svg",
+            "alt":"Timski duh"
+         }
+      ],
+      "tag":"ourValues"
+   },
+   "discoverMore":{
+      "sectionTitle":"Otkrijte vi\u0161e",
+      "items":[
+         {
+            "title":"Gosti",
+            "image":"content\/discoverMore1.jpg",
+            "url":"\/",
+            "urlText":"Putujte s nama",
+            "alt":"findOutMore"
+         },
+         {
+            "title":"Iznajmljiva\u010di",
+            "image":"content\/discoverMore2.jpg",
+            "url":"\/",
+            "urlText":"Oglasite smje\u0161taj",
+            "alt":"findOutMore"
+         },
+         {
+            "title":"Partneri",
+            "image":"content\/discoverMore3.jpg",
+            "url":"\/",
+            "urlText":"Sura\u0111ujte s nama",
+            "alt":"findOutMore"
+         },
+         {
+            "title":"Na\u0161 tim",
+            "image":"content\/discoverMore4.jpg",
+            "url":"\/",
+            "urlText":"Upoznajte nas",
+            "alt":"findOutMore"
+         }
+      ],
+      "tag":"discoverMore"
+   },
+   "usersAboutUs":{
+      "user":"Familie Pospesch",
+      "text":"Ku\u0107a je vrlo dobro odr\u017eavana, a vlasnik bri\u017ean. Nalazi se usred Orebi\u0107a. Najbolja stvar je vrt, pun stabala mandarina i limuna, pa \u010dak i grmova kivija... svakako preporuka",
+      "sectionTitle":"Vi o Nama"
+   },
+   "aboutMenu":{
+      "title":"O nama",
+      "items":[
+         {
+            "title":"Adriatic.hr",
+            "url":"\/responsive"
+         },
+         {
+            "title":"Na\u0161e putovanje",
+            "url":"\/responsive"
+         },
+         {
+            "title":"Partnerska mre\u017ea",
+            "url":"\/responsive"
+         },
+         {
+            "title":"Op\u0107e informacije",
+            "url":"\/responsive"
+         },
+         {
+            "title":"Pridru\u017eite nam se",
+            "url":"\/responsive"
+         }
+      ]
+   },
+   "usefulLinks":{
+      "title":"Korisno",
+      "items":[
+         {
+            "title":"FAQ",
+            "url":"\/hr\/responsive\/faq"
+         },
+         {
+            "title":"Ku\u0107ni red privatnog smje\u0161taja",
+            "url":"\/hr\/responsive"
+         },
+         {
+            "title":"Op\u0107i uvjeti",
+            "url":"\/hr\/responsive"
+         },
+         {
+            "title":"Garancije",
+            "url":"\/hr\/responsive"
+         },
+         {
+            "title":"Mapa weba",
+            "url":"\/hr\/responsive"
+         },
+         {
+            "title":"Korisni linkovi",
+            "url":"\/hr\/responsive"
+         }
+      ]
+   }
+}
